@@ -1,46 +1,29 @@
 {
     "news": [
         {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
             "text" : "1"
         },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
+            "text" : "1"
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
+            "text" : "1"
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
+            "text" : "1"
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
+            "text" : "1"
+        },
+        {
+            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
+            "text" : "1"
+        }
 
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/rr.jpg",
-            "text" : "1"
-        },
-        
     ]
 }
