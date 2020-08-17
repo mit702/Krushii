@@ -1,33 +1,5 @@
 {
-    "news": [
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://1.bp.blogspot.com/-osVvTsTtaSY/XzpMvKCBVVI/AAAAAAAAAEc/rwiVssk9RKIaumYGLdGa1PkiertPtwc_QCLcBGAsYHQ/d/pexels-mohamed-almari-1454253.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://1.bp.blogspot.com/-osVvTsTtaSY/XzpMvKCBVVI/AAAAAAAAAEc/rwiVssk9RKIaumYGLdGa1PkiertPtwc_QCLcBGAsYHQ/d/pexels-mohamed-almari-1454253.jpg",
-            "text" : "1"
-        },{
-            "img" : "https://scaltermedia.com/wp-content/uploads/2020/08/40.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://1.bp.blogspot.com/-osVvTsTtaSY/XzpMvKCBVVI/AAAAAAAAAEc/rwiVssk9RKIaumYGLdGa1PkiertPtwc_QCLcBGAsYHQ/d/pexels-mohamed-almari-1454253.jpg",
-            "text" : "1"
-        },
-        {
-            "img" : "https://1.bp.blogspot.com/-Nd8GxA2wS3o/Xzpfseo_8YI/AAAAAAAAAFM/M6B6g8-ynhUlMfB46ZIGqxp0y1tntw0OgCLcBGAsYHQ/d/1%2B%252817%2529.jpg",
-            "text" : "1"
-        },
-    
+    "news": [  
         {
             "img" : "https://1.bp.blogspot.com/-OPkN6w4quDU/Xzpfsbx1ikI/AAAAAAAAAFI/fP4eqSnotb4WK9j_JBQwXH2k-ubvLcQJgCLcBGAsYHQ/d/1%2B%252816%2529.jpg",
             "text" : "1"
@@ -95,6 +67,6 @@
         {
             "img" : "https://1.bp.blogspot.com/-fP2EyGWcMV8/XzpMuz5aRTI/AAAAAAAAAEY/_QS0KNIAiAMTEihPUn2yEgB67zDdoyF1wCLcBGAsYHQ/d/pexels-carl-newton-2280153.jpg",
             "text" : "1"
-        },
+        }
     ]
 }
