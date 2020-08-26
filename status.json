@@ -1,0 +1,26 @@
+
+{
+    "status": [
+        { 
+            "video" : "https://scaltermedia.com/wp-content/uploads/2020/08/rashi-1.mp4",
+            "title" : "rashi"
+        },
+        { 
+            "video" : "https://scaltermedia.com/wp-content/uploads/2020/08/rashi-1.mp4",
+            "title" : "rashi1"
+        },
+        { 
+            "video" : "https://scaltermedia.com/wp-content/uploads/2020/08/rashi-1.mp4",
+            "title" : "rashi2"
+        },
+        { 
+            "video" : "https://scaltermedia.com/wp-content/uploads/2020/08/rashi-1.mp4",
+            "title" : "rashi3"
+        },
+        { 
+            "video" : "https://scaltermedia.com/wp-content/uploads/2020/08/rashi-1.mp4",
+            "title" : "rashi4"
+        }
+        
+    ]
+}
