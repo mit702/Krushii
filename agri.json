@@ -1,0 +1,550 @@
+{
+  "veg": [
+    {
+      "id": 1,
+      "item_name": "Wheat",
+      "item_name_guj": "ઘઉં",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgByPjdmCgVNNECWl5gDNmin8J_k27e6f3_PprvgPq1ZOC1vWrm7xE9yYQG6m5YlJZh947tXF3ZA2fzfELDINngkFqlB7tlK3jFCnWcz9egsljEKfHBbpW1wTOMkeis-XQik81MTTuvK5DlaCV_Q5jREEYJgNJKg7FJg5gvP8HqiT7l6IiTmEqcjuH9IKU/s16000/Group%201000003076.png"
+    },
+    {
+      "id": 2,
+      "item_name": "Bajra",
+      "item_name_guj": "બાજરી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK5HmMC9Jm4XAO2DyWcNdhh7RXer_okflS4bUvwKu_h1c61Afs0qc5cIAoJX6pKeHk21W2pv5a2UeG-vWw8d1UQbJNm83ZIMRXOXO2tuZDwPK1QOTCVH9UJpXAG2lL9dAqmJEEnO-dN5Cy-4PPdn1z1MYL3futu__vpuibp2_2i8nqSMDCA8wyYCK3jic/s16000/pearl-millet-bajra%202.png"
+    },
+    {
+      "id": 3,
+      "item_name": "Castor Seed",
+      "item_name_guj": "એરંડા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIsUcR5XMrLtBQqE_nuuAaAXtb_4Yx16SyeqSz7OamxzOjM5Gmet9SODbYnsS3JEzv0L2H9d7V3Rc9G3MSn66t5lUPtS1aalAVtIZWyG5CZLbPeSrrmhyphenhyphenfnbpS81xsDbAVZV1dqCZjCYQ0CNfyRFsYyBLbecQvLG2x-6_XVJDn_Ggo5UAWXeRCBB0LYCM/s16000/Intersect.png"
+    },
+    {
+      "id": 4,
+      "item_name": "Cotton",
+      "item_name_guj": "કપાસ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitlFP4RxEF9ez7DLSbPT3l5wBcK8qwtFQj6KMQir-q3Xt9YVIpVMvvjZGTojG3lBkIJv-E9lIDW1PjdGiHs_WqUs1Va0_G_UfQOAgsBYuUTyT2tizSQmmJVtJOFLFmZM_81QjobJpkV1_8TK3VUi3W7bhWa9Xc7uCo8as2ETLbq27KBXm-KfiRk7DrInI/s16000/Group%201000002992.png"
+    },
+    {
+      "id": 5,
+      "item_name": "Groundnut",
+      "item_name_guj": "મગફળી (માંડવી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLxdP3f9TJNWgmDZz58THOAmmpP0p326VJgbqDz2oPxtY_DHLFxP2tPehDVYE2Zj0-rNk1ghTYikoRveGT6TaSGwWSz7zHSoCB6UhQU_qdC6W6au16RguS87vBYXmpOeOBcr_E3WiLSTcDBjVHI-Aeq7KvIU9vUITOqcwY15sqaTK5u-KmNjCzuF67VRg/s16000/Group%201000002993.png"
+    },
+    {
+      "id": 6,
+      "item_name": "Sesamum",
+      "item_name_guj": "તલ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQek_xk7fJXemwl3bWlsbwDLWKktHfszRwbcp51ls-sIwElS4wGEPfUwx_Vce_3JoG9TpQkBGP7-DrWbKUSFsbBVarQoItKh08TyzZ59MJisgnyqRv6Ws06Ko5bqL62nMNrcH4HEEeWsXZX9m0capZ0VYyeu6a_9wzpVMSm4Q79YYI6tQiF0aNzgVafx0/s16000/Group%201000002994.png"
+    },
+    {
+      "id": 7,
+      "item_name": "Tomato",
+      "item_name_guj": "ટામેટા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXMhi3fhlqNGCb1gXqplC1lLtEDOnA1qcQ8iMNn5nPPPiqNJIkaxTnos23_F_4xo9KkzFAn81AK1INAUu9P-9cvzN0VmY290tU_ZrIdbIIXNiZR3KpCq5nEDhManVKzpcIJiGtbHlr8NwKEo8FnR7U5IoYB9Gh-jk8KCtaDwwVAVqmJRA-fuV_EUXhk8I/s16000/Group%201000002990.png"
+    },
+    {
+      "id": 8,
+      "item_name": "Bhindi",
+      "item_name_guj": "ભીંડી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-2i1_GLCmwSJIK2XhxD434hQsNwxCTragBSXn1boUKo1dRcpMIXdcRSP5sD1L_naiYc330jW3V-zuEtKVcc0OfOIyjzTfAXpvsRXEgjluIG2TL9C6DVNNx6f8tuptDchyphenhyphen_6oEtbx316aEp3gMNLA4Fj4IAyRF-byP55_CwjhU9Cq3O5co9aJjo6dQAI/s16000/Group%201000002995.png"
+    },
+    {
+      "id": 9,
+      "item_name": "Potato",
+      "item_name_guj": "બટાકા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFxhtEq0eUew6HnFTfjKnIvwDKLi0Goy8EGrO51qGmIgOqyIb5LQxoTmn2GHX4yJ_z4MQud4re2_SbG8WY6t5NmK_ZO3_rDWbtNolPH5UlDEDxSLhz7AqMqakSLQh7m5JYfICOc0XypSsBXbYU8M0ED_3pnX-mLxP4eQ7PI3CDXzWAXPAsGGErcKWfPPE/s16000/Group%201000002996.png"
+    },
+    {
+      "id": 10,
+      "item_name": "Brinjal",
+      "item_name_guj": "રીંગણ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyXx8tRWPD0DwJLU6RRx-hnIVpo5svSrNrMW3KLfgNkaevb_Fcpqc28U8iVn8BId2NkQwGbB5Xh-UTgj1FOIFeAQyV5JCQuuU7UJbaFiKJXfDB1gksAzyWb300OD_JMMG4cmf8p0n5nTJ2bv_aap7beHXaV8Xy70zVZ4mxtPkaJztKtAY8aM78GWMLhQ8/s16000/Group%201000003079.png"
+    },
+    {
+      "id": 11,
+      "item_name": "Cabbage",
+      "item_name_guj": "કોબી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUeHl0B6lRnNpuegyD-loFFs1eO97aYT6x_WO7D3X_xjh9LpfVaJzsvYaU0BFy_APofrbjhgxavwLSI8zO5XFelz_eKh8-_WIquaupsrEQblg27suMZLrwdJ_WTRo4yeKC9w-VGgltJffXFhowooeqmKs2YdNcht5g8BKSiP1JkC1ZLxGuh3-Lj1xI4OU/s16000/Group%201000002999.png"
+    },
+    {
+      "id": 12,
+      "item_name": "Mustard",
+      "item_name_guj": "સરસવ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAQM2bMbHzoRJWda47rFGwNmdQnCai1wS1Rzy-4qsNu0gWWNvvh7PJXvGHNrvsmb6cbH9jiOflug9e3lf6zrlf3rgdozDkX7qM61Dzt6_kHd6mfS5ND-JW9fPPKnf20Cet0EdZ22UrbGSWWuzjWAy2fxcn0w9d2tdnoT3z2oH9slqos8TtZAm-8fcRJuc/s16000/yellow-mustard%202.png"
+    },
+    {
+      "id": 13,
+      "item_name": "Cauliflower",
+      "item_name_guj": "ફૂલકોબી (ફુલાવર)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVSEzRi-B6Co1J5sG9MyeoraL0K_fmzBvWYeMd8ixS-u1SYzO7Zfca1HZut9n6pNaNIftxlEW2niWqxRE-yWBj3eEbVo1juxLWr9uHC4Gn-5Gu69jY-eN62Gg8uxDpIAr9LuUlbKO253NWGRjeM6kbFIGC14DueANBo3gzjIG7AOMFq-k7iEV4EzInChc/s16000/Group%201000002998.png"
+    },
+    {
+      "id": 14,
+      "item_name": "Cummin Seed",
+      "item_name_guj": "જીરું",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOjZ1I2BDoHsEydVfPZBMdbh5oP6r4vx72UjRfQXLtyDyJqwerH8zFep5oLqo1bZ__2NufB7NRsHCntZVyrFlgKkXNP1ONfnVt9TSJnEnORladididbBKqVyPmFG8d1CYqSqRPriwX0OkupeletPg2WZtw70UxQ50-7khPz3Vy_KDsY1yhWSrQH3Dhnp0/s16000/Group%201000003000.png"
+    },
+    {
+      "id": 15,
+      "item_name": "Green Chilli",
+      "item_name_guj": "લીલા મરચા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7f1ZbWPoN4wDPB4JXt1dPjPuZXjGqIUgyDoHdlx1XGIapF4HOqXvjSJlkWV8SXWyClJ26T_r0KvLpPPvIeZyWA23kOuhKuxS7FOdEVuVuJ2GyebQU-pe74rMLV6F4ErlnoWuXcoivlcIehax4C0DhJ5mqbNmRmPFc0AqU35803G29Y2i1fTBugrVbx3k/s16000/Group%201000003001.png"
+    },
+    {
+      "id": 16,
+      "item_name": "Bottle Gourd",
+      "item_name_guj": "દૂધી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGerAqk_ebxp-Oc9-eSdhq-LfZagaXj2oEIcuBxLGB2tuK2eETYmFzczm71IlS1jfeP3h6ODmK6hdOZRvmAJ3stC5rL_BbV8JJ685_6-QGOHeANJMe8ZF7Va9ZAd1DdwqTtjMm4J4RIyBIUoze_0Ix7nbs2LPK_LM6e1pzrmr7_zwNeM1NHhinYRvCF1s/s16000/Group%201000003002.png"
+    },
+    {
+      "id": 17,
+      "item_name": "Onion",
+      "item_name_guj": "ડુંગળી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLQrhyphenhyphen2BGB2BEfDmVmQR8AudD3a-dz_97TyXBPvy6jJTw8AclELW95olq-I2lBY5VhuhL5YEYV4Wd_sWjcTyctIO7GIQD2b8rPsRdTi9G4UeyGWxBc46uJvBjmV6-OK0tQXVgiYQJKWeIXeODN-tMkLDhT3i1SUqdPxfnZ8DjzmVmZ1c4RbVOCg2IrzlI/s16000/Group%201000003005.png"
+    },
+    {
+      "id": 18,
+      "item_name": "Lemon",
+      "item_name_guj": "લીંબુ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpbPl6hlDa72_gVphppRSjC6XO5u8VyjGRC4hfmKBROwnxBMIDl8iGNPSCBwxFI5yL-69z1f6_YSmMZs0r_EGkkJVnu7kf1BU0dmgn4rt09F30lSntlH-RA1mGY_iNBfLIr3PQr8oDJrN7zihWMlNr05oCC6xM0G03JCcfkuaQ5oGycZZRVx9GUMB4JiE/s16000/Group%201000003004.png"
+    },
+    {
+      "id": 19,
+      "item_name": "Arhar",
+      "item_name_guj": "તુવેર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-owH2L9wT2oe1UdtPfbb1rU4r_hiY1LkHRyYaCA12-njINVrtRCtzF7ml5PhaEnFYLQeB7pd85VRREnYjH0elsLxbC2vtSXvM7ss8eyhNjZvZC7tLhpev7Q6fg9YC0AmcVJxx1qrZiU2IdpXesCpyHSWunvTbMux2N6xV-SvMFJtbxZfAXKLzChY6hco/s16000/ssg-juwar-seeds-red-1-1--500x500%202.png"
+    },
+    {
+      "id": 20,
+      "item_name": "Maize",
+      "item_name_guj": "મકાઈ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif3syh2JDmCbHCDG1ZCUk9QHmMdBBqsekA_d6ztf1YVBZojS00HXn6ydH95oVIpQRE8ZOML3pyeQeQiRxXMLtjqzpKuvLKOHiCQMZEK4hBzP2o4T2TcFpXussG__m0DwCyQsxpoosEAc6QyjufDHAKXeUjHtRYpvUABDuf7qsJKoCx6F5EHXrxr94bhC0/s16000/Group%201000003003.png"
+    },
+    {
+      "id": 21,
+      "item_name": "Kabuli Chana",
+      "item_name_guj": "કાબુલી ચણા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZvyqdSJN_6ahXw4BeFgwAAEz0Hchjko7zM9SQ1B6atKQcC9P1AyCh_RIVHqaDPIn_rHatDzoMyQSoxmwnNm41VQCpU0RW7U8fGJpzqIJMO4lTUEtHAELmC4vpwu03_km5TgyHGYrNp5ZIJHly1CndgjOrFovAjZcZvjJNGH0YceeL7VQkCScSnkifxNA/s16000/Group%201000003006.png"
+    },
+    {
+      "id": 22,
+      "item_name": "Coriander",
+      "item_name_guj": "કોથમીર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo6-7luRfSnyLW8apATC1ZsIe_KcqqJB1pC4a-Cwr48zGzpbds6JF7SFqyQSxIG9f2VJ97axkHSLI-YMdsSlC830eOmEmyW5OynvhLybCLfRzDuBjOWcSm6Wkbup4XishKdvqtYhKT-qtnAcMGBji9oW4rIDFfTvTaC-QGGKv3S8njAbpGYwqq4uIDjZg/s16000/Group%201000003007.png"
+    },
+    {
+      "id": 23,
+      "item_name": "Black Gram",
+      "item_name_guj": "કાળા મગ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAyhYjNJO0IYzVV9R-IxpuUJOJNOIshwu85SMuuTNe7vAQy1h1Z7jFAiY5I-KXSWxPrWlERWdkv_PbFdaLvf8ABazSmD6DcK007CFuTQC-ERYFFSqGLB21_EXuiFCUMg5Gg2FkrtwHI-qCxY4GOl-lAgDQhopoTl_18aUQdqyA5zPUumrQb2edTAySv8/s16000/Group%201000003008.png"
+    },
+    {
+      "id": 24,
+      "item_name": "Soyabean",
+      "item_name_guj": "સોયાબીન",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgelG-tOYKGTjapXABEBrLoCciNblial4V6gZCdz8n6OyuuSgDgFcwYM3Gw8Il3FyXq567OQJkl250Y2OTopA7a1yElhMjOJaflFaFAnieKpmLunWu7-PvcEwFnhAXyiIChq2GOGLqTX2V-ZL_FH_4ootQKHrUVlUalBsZUy02gyx12rnocUQg1_JYKMk/s16000/Group%201000003009.png"
+    },
+    {
+      "id": 25,
+      "item_name": "Cucumber",
+      "item_name_guj": "કાકડી (ખીરા)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5M1lQm-1WNH1yEbRKwbkSk3mLUQ3NpARWYfzhRc_ZxMbn7IvdcN6RIrgRP_TcGPwqUeO4C1cLfmoyefPeQCy0PBeUwHKEzv0QcA4XoCxU3pqlOnQqSlhdjGI7utrPAoWDia_NXcOtsi7e8YEplDY0GgnJ8aL-5szfRFC5DL9KmEjpqj3uhz8Li2bh07w/s16000/Group%201000003010.png"
+    },
+    {
+      "id": 26,
+      "item_name": "Bengal Gram",
+      "item_name_guj": "ચણા દાળ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpnKijpoHOwe8Sfwz05tuj4flHhgGtnUw7roa23b04s0CtWfXsWvQJmTnAGrsJ2Qeiwe6eF0zzjzlay61cbEUD6kpzCZ5UE7yTU78FXwILzV40LW142PDse_gwvHiggpHqbtveV6OZtPAmBPa9YAXAPOFxnMbLxsqRWE7dHEaDq_znWX4l3G2CcL71zJU/s16000/Group%201000003011.png"
+    },
+    {
+      "id": 27,
+      "item_name": "Coriander Seed",
+      "item_name_guj": "ધાણા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHcgd8MzkWqlFlQ4L8fC-F8_Xtj2-Q5fTZNLtvl39xVO-YZBDBfyBR2oDMgJMFnMVy3ayjZnU1izFFQDlQizglAWVyOroi0l92LMNB8Xjk2VVuhv_ENawOMlowDGBIzrop4uDuFlVKgBikfr-E5y0XZDTNv2uGjBoIefv7qp06_8AMevZu3gEyXifVEdw/s16000/Group%201000003012.png"
+    },
+    {
+      "id": 28,
+      "item_name": "Paddy",
+      "item_name_guj": "ડાંગર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDsdtj6LFfbk1V4ROU2GkQP7hEGLGGr8dAYLzSbPbPYjhvdrjLHQNUQI333_ydXf4bccrk3EzW2ObcENVAYCwguzHgQVMCsu6ZxNvZeCkV1ji83JJ712pdDafZb2izmGEBKRM74OzYeAZKie6AnH2KKULBVhoIG9NEBNUDVULoROJ4Du0qYO0htHU6zg/s16000/Group%201000003013.png"
+    },
+    {
+      "id": 29,
+      "item_name": "Ginger",
+      "item_name_guj": "આદુ (લીલું)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMebaN3fEDo7caCF1P819dbkujSrP3cWLixazA4xgsyxOfFndkAExEcHcispLxXSc68wvYJBQ0lGyvnWqd7yTmpfoxBMm-K_L9hgj6z4BLHSlVAel178WMT3qIy46Ybbs2wMJFjSaZqWYgj8vcSmKJTPqgTkE_LvO9W4DqvohGUJpar4y8nS7xSAVDNUM/s16000/Group%201000003014.png"
+    },
+    {
+      "id": 30,
+      "item_name": "Bitter Gourd",
+      "item_name_guj": "કારેલા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpLScjjtFfZrnkTF25fTBfNayagXvPFKG4Fo-bXP3R_ubZ64-Eg9_sIsq1pHgi7l8TbrALHj2_EDpZ9JVgeamkG8u2oG9j_gBt9DFN1eYmfO89Mmb5uFt0xUR85C7RfQmQMdbLBkCOctIVkrGAR01zfpmTEL9nrWxfWoqboJbx-87X5aOZSduXfRJp6r4/s16000/Group%201000003015.png"
+    },
+    {
+      "id": 31,
+      "item_name": "Pointed gourd",
+      "item_name_guj": "પરવલ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-aSfgtg7F31-rbTY7OMM1yqaInvDW8QSKbaCB8XunlcNpzi69lW5VT8FctzkK-oQizYvbkjeip7O9hoUKIcM1QLUKYAP3cGsa_ZL4lNWJSrhHYErdD-sl5Wjjp2JhmuD2jnJ_O18yKLyYtWowZ9Q16JPH9BTkkIUF4APEy3hIiztiIvT7n6Tm1bY_hP8/s16000/Group%201000003016.png"
+    },
+    {
+      "id": 32,
+      "item_name": "Guar",
+      "item_name_guj": "ગુવાર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIBDGBawkrTPbCK6Ud5iCGf_6bjv5yhKxgSpmDreQBDFpPXFVEOoXWbte-fTqdC7BhFJHXt_j8o1g3SNh3IRnuEVPYlEfSryWZ8sroKm1TK98qbjDG2ljyAEwPncWq3_eArS66fsNzh7t4BkGCzVIzENPk5nIcFHP-ZrjR9MxUzaLS_qhNLMHx_SljSJg/s16000/Group%201000003017.png"
+    },
+    {
+      "id": 33,
+      "item_name": "Soanf",
+      "item_name_guj": "વરિયાળી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwV0qR6Sqs0JDf3l5gpD8DmfYP7AxD8fuaP_5vtiyLqokQPXyOQ1TIRXlFMYU05z6ozvg7nLWfHEhw2q4qiH2IZ2rNBxY0vsdPMPoGgxK2Z1jhNp6eFzKWKZAl_UeD93ZhejSvHbER564TCN_CtR0-SSNjAZwEw2K3hY8PYJ4IJz352khlnZ-sjh_kt18/s16000/Group%201000003018.png"
+    },
+    {
+      "id": 34,
+      "item_name": "Jowar",
+      "item_name_guj": "જુવાર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMws5nvBJnvbsy4nyBwD3_fvXtfo2FDdApByWeEn80N0Lrz_tC9A0bOVVZt5EnDpTXAvKuWVC94DuS1Y2EgFfb54EFyhXs2PNBFdK-boecPoanDgtytmM78S31P_mf54cbnHGChHzkyulwDs_47C2IKNnUsJtlaOLqcWkV3aKrKOypJQXe22bnWXvgjM/s16000/Group%201000003019.png"
+    },
+    {
+      "id": 35,
+      "item_name": "Banana",
+      "item_name_guj": "કેળા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEqHKrquYnOyijJX5BwRjsUgM83NeWf7N2jyM3EJ-cErhYQEtCnzP90WH043borkFn_2py7_Gj3sIuErGcv1wZ4ZXD4PTNo8X5_3wp0tPEoIxgzodPzO8WFqLrxdK2THQDVrN4H4-NDjdTLP4TwuNJO1voenSWmUJ7VeoL4HkUwJn11KRdcbues3gVgTc/s16000/Group%201000003020.png"
+    },
+    {
+      "id": 36,
+      "item_name": "Garlic",
+      "item_name_guj": "લસણ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh303pVfhDx_qt5-YLxNtCICCFTWFZRvQb0PLmhRRjyiRwHypVY3lxQIT3qPX9t7zERhrhQfDgBmlCqmjZR6k6-L8VBghaawuGeoWoVM0yNfEacXUvq7ZCaK-MmbsYiHhU5ybXfj8DCNgcLgDR-OI4L_rfZqQD8phH63uuPIkph8yVMg0YZ5kSDg-pXVLo/s16000/Group%201000003021.png"
+    },
+    {
+      "id": 37,
+      "item_name": "Cowpea",
+      "item_name_guj": "ચોળી (લીલી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDnrmZ8wpNHmk9j0n4Zn0awIhCodE-cvSkis4JMnQ4RyUIbfcTLfyHF59XA0gM0HO38wKuw2Z9v70aTCcDFyH32ifDfN_8Wr38MXw1JWOpEvufszj3sPfPW8xKqALYV-utyrRjm_aRZfI9VLM9L03J-Jx0URl2iC-TrTzCovMvuZTVGtIr-6IExKLq4A/s16000/Group%201000003022.png"
+    },
+    {
+      "id": 38,
+      "item_name": "Cluster Beans",
+      "item_name_guj": "ગુવાર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXzYvhVXQOHAf_Mcnw8ElqPIyOs2q-vsXvMgi7UvnD91TA-CDN_8-W0UC9vO3crhd673hoOeWh5z_FIAxs-0Xb8oI3_NQgFgPOArIWqL8qx629SOyK4yVLfoD3F2wA0Qd4iPafYgrXI46JgXf8jr9uHONFB2ahK7kkJfTOpJtZRdXKtVKm-WW4Fii2Q4/s16000/Group%201000003023.png"
+    },
+    {
+      "id": 39,
+      "item_name": "Ridge Gourd",
+      "item_name_guj": "તુરીયા (તોરી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbka_dfOlbuOQ1h3wT2A9Sev_MDBjZWEmuqkbUolOwEmAItkTrMMdCV34Zx4iwzONfHUkUxapddpe2i5cKDiWQauraxY1Hd7yjKrFcnuA3BGa4FB3Fa8B9Fr4eKRwUMwVVQqgiaPbXWQT92n3iy4woedaKXZQgFSyvpRFAVvu3iWV3I6ReeHRifhZKZh8/s16000/Group%201000003024.png"
+    },
+    {
+      "id": 40,
+      "item_name": "Green Gram",
+      "item_name_guj": "મગ (મૂંગ)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84DJ5hBjkzMCm9xD1sgTBM9VV_wf8EyyzXywLxalmhh1bWF_Z9-eCh2LQZd0bGuaM5o6GCg_vZmUK_pZyuYNxoC00uhfkPQahQOLa9kBylwK4aRO_E3RS5HEx6z_Gujme-Jdt8kyTTyeZ9_NCEIztxpZwq12aJTsb96KJjO8xSu7o2PhCNSu-WLu7pcs/s16000/Group%201000003025.png"
+    },
+    {
+      "id": 41,
+      "item_name": "Rajgir",
+      "item_name_guj": "રાજગરો (રાજગરા)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_0L6x8MD_8A62kD_mc3M0UrI3cRDDofGOjsIg-_IRefUcNnwenX7c058rVCZFMu53BD1CsmiiQ37pNEgAQ7PBylXzZr-ZUqZqcTdphyphenhyphengbQ2Wsy91WM949wAlttzdSw9mio9JgF5kbPfZNI-jWdoUsjwpkLsFtFdnBRLBhe1Hd7fv0RZgFeLvt0OU3z98/s16000/Group%201000003064.png"
+    },
+    {
+      "id": 42,
+      "item_name": "Sponge Gourd",
+      "item_name_guj": "ગલકા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRGf8h11yY5QGSoBI1sbk5CwEIuLFyZ1d8SIzIB-YtdGwa0lNSqXkwzaniNKspzcSNadPr7biStZKXSzHDMvIp_hP_2xXH0LpwJ-Erhnlpml1XLyXEJ3a0BjIgWIhBWrMrrJ3lWVtGZwuug8YIvirtIZAywfRbWszfOeXmwfduQs22cMFaUmNYt_UmYQw/s16000/Group%201000003026.png"
+    },
+    {
+      "id": 43,
+      "item_name": "Carrot",
+      "item_name_guj": "ગાજર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqSLKp775YiKeyS2cKgp3DmIzK8pp00g0_98E3Oh-dIm2Q8rlgSLhsRrSmDmhPvNuzAgCGMqddqdskLwjWmLYZD_ZYtmhS2zPxmqspmoFgXuOjjNKGhpKQ3EuGp9ZWGyiJCNkOeRRFtM2O886IRostc9ORyTNx7QaOaMdNPXLq8snjYOkegpiWM7X60Kk/s16000/Group%201000003027.png"
+    },
+    {
+      "id": 44,
+      "item_name": "Isabgul",
+      "item_name_guj": "ઇસબગુલ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr7DnhyphenhyphenpanFzAuLscLqowc0RDBH5biTl9A5dxjExo1wjJvhfEEbyE9yRQhQ1Wah1G2MQesM8NKlD1KHStHBR3HvavGvmAx1R9b6DHAJVhZOOzRbbhJDNLt6lTGLC-s46UzEYuMIvt5HIBqHMc7gQwazRWZ8L1zavJBsYloRs8e4qmVDOBdqyaBp-n0RmI/s16000/Group%201000003028.png"
+    },
+    {
+      "id": 45,
+      "item_name": "Drumstick",
+      "item_name_guj": "સરગવો",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXigqjbKVwIQ0iuuHezv2cIhyphenhyphen7wHSsPWcEmxufu_NjQlX-CI7pnH-PgoSXO5wXHSx0vwdIWWWpiWDWsUQQws6n2R7jckbfsFXv7q_tshkbavXZtQHiNdO4i_TRCxHsBrOaHx2W9r0zzBZaY30lMOEM046YVggfmdPv3eEv-YW7_BQH5PwxM1mthYG7Fbs/s16000/i-am-gujarat-73399636%201.png"
+    },
+    {
+      "id": 46,
+      "item_name": "Methi Seeds",
+      "item_name_guj": "મેથી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdhuLBMwOxCTy9IhC6HC7GGQuuN32QXyq-XT_TF2WrltFhHcq065GVRDBYBAqaRrmzQUeDApnKG1irrDSxm7zkjUs6TdZUUPTGaEebCZY0e8-Em7RCRz-WRY2k8d3dufdaKGcTHLgldjLEo_hmfu7MoN5x4waCCRirglnC2P4fmgMteeb52qudFzoRu04/s16000/Group%201000003029.png"
+    },
+    {
+      "id": 47,
+      "item_name": "Elephant Yam",
+      "item_name_guj": "સૂરણ (સુરન)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5QvEeAOF8NuZmv_Wfxi5j2Acf6wtfnBG5NpUn7tkotRuzm4JM7DzUeLg3vQMwvdlijp4xC8SQjDKO_lFD86svp3hMPrTUT_6PUVzp5y2jYhzMQ6N2nASTshZmJ0o20WqaWzGonPpRQp6m_oOsCtAACM8pu365OMdODThgD8MUVvfz2oUvN_J54os4418/s16000/Group%201000003030.png"
+    },
+    {
+      "id": 48,
+      "item_name": "Pumpkin",
+      "item_name_guj": "કોળુ (તુંબડું)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpBBYy0z4rBjD_3UqXHqkx9tGmGjmF4ZlzfK_gPliSZQ2yNKmAGn56QXi1S2tpeCCUwo9lx5knHYFhEKVyQgh3BBkAZmRQ_lKqfbQq0IznqKL3GyXRms1ZMhQjhowHcmQSUGA92Zmr3HM88aS4rhyXQW68PPzfoXU2C9aGDj-HESKLNBkWLZ2x-ELEro4/s16000/Group%201000003031.png"
+    },
+    {
+      "id": 49,
+      "item_name": "Ground Nut Seed",
+      "item_name_guj": "મગફળી બીજ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSFmelZZjklLLT-t9fQ0d-xk7_JS_gk399qUE_hmiLyzKiV5mNnSNTYnRN37vdGJmm73Vy9lDm0uWZCtTmURylsYCzFpmVYDZoOd1nCgqrLqiSiATsQaBxgKNBEXoNwXNM3GMMCUJj5HpI_7AxWLsdJoBSLYsY4MWjFOsniFrUGhRtWumFuuBhXM8KjGU/s16000/Group%201000003032.png"
+    },
+    {
+      "id": 50,
+      "item_name": "Spinach",
+      "item_name_guj": "પાલક",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn4CLuJ0kWz7uuL5EllyOKEZdHkmK9-zeQgEzncF12PSmayPDvkOqBa0M4nepp0gaSKVFPcvc01VjZ3lavOxoaXilI3Zj0tvaAlI0bIFsnYjdEycIRBh1fTsnNgONsZfmKuSmqdaKPNyPPiQ9uIJjybDDzulH_rTxrnw0q84twSebb0HXbYa74asv6hQA/s16000/Group%201000003033.png"
+    },
+    {
+      "id": 51,
+      "item_name": "Little Gourd",
+      "item_name_guj": "ટીંડોરા (કુંદ્રુ)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH0qtmyjV0IjpJYuFVO2jE2-VXtz5PX_1r-ATMVThmO_RRF1KpHpvNVgblT_ckdAfcnijWbR69hr7Bp_liahedIhuiKRVm7WHt8kOIoaiv_uMF8YRcVGfH6rR8lzzuUn0a3JXhFK2bJsePV038HA0qa12Nbqgh30sPMfgO8EkGd9_rih_efw5RcLtJy8s/s16000/Group%201000003034.png"
+    },
+    {
+      "id": 52,
+      "item_name": "Suva",
+      "item_name_guj": "સુવા (સુવાદાણા બીજ)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghPUVoHx2CnJeS03sB3FKVRuLzacjZW_scOBcrXyUvfjurmjyojtOuTMIjxYrdxX8qyJo75hqC5qapJVfyUpiODgZOncOiA3Cg1of1E_qcUsxkyRhje_az1RmWcjkedrLPJT8IUdDQSyrBs_WI4iUJswBAy6f3HiuYhn4KnYhWsgVZapZcgikh7RCsN4Y/s16000/organic-suvadana-500x500%201.png"
+    },
+    {
+      "id": 53,
+      "item_name": "Rice",
+      "item_name_guj": "ચોખા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCP57Nzenuy1JbJfp7j65hRYCFToFV0mJqgYfvAbSRvbDkT5PwYPC8foBVXZCgynh8tZYNPHvMTkSLMAhvHUsgeOh0VHDsXyRZsttK_6tVbvJqHGBHnvcPILzY12sa_9jYfZyNsjtsL-NT8g71Tj8kJI5mxhUhfKP98Wu8g4GnDKXBdbjP9nS5PoXjSY/s16000/Group%201000003035.png"
+    },
+    {
+      "id": 54,
+      "item_name": "Groundnut",
+      "item_name_guj": "મગફળી (ટુકડા)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZl4zGahjz8duHsvSjLOtXWxcRiaAS3ucdFRl2A4ynPSG-ZqduSxMuprYiMCzpClFBNueN5DEidDv0i2D9csVyMTiXhEoHVT5IDMQEf2j0excexbWNp3CrZ6UkAAmFOh_DJdGa7Qzt4j3t7KNgpFMSQnRck1ljBBHH8c2kYmTudhOcrpOz5SBYGZcjg4c/s16000/Group%201000003036.png"
+    },
+    {
+      "id": 55,
+      "item_name": "Papaya",
+      "item_name_guj": "પપૈયા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BjrLQ9M_uB0X-RiGDjy2Jj9DMmcelnyiLYsltSl1Mo6xYfM4eXJN_ZsG1Hb_Fgk4tZAEkri2cWOt3zR5SmAT9XLb08ee_LijOl6OeqESh7_PJYm2KuO1uE6P9lX1Gp7hGGfkbwgz7hUsRMRlObZFyG9KC3g1lyOelwx4LohgvYORostgZxxqXsIbh_U/s16000/Group%201000003037.png"
+    },
+    {
+      "id": 56,
+      "item_name": "Beetroot",
+      "item_name_guj": "બીટ (બીટરૂટ)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG9NuX_Ltdo6R8IgqQ3ans6-RNESGVIy4pp7M7oy5rVnx9aAI_PSJuIwDfbeQvDV6WyugwJU_qcuEJHY7iO0lucceuetZ0qSQMAW_DHZ084WIkMjtfHd1p9zTRraB_7m2Yob8QpakY3ZrjPmwTYW06vtJ2J-7O_vjuwbJheHv9kOvziagw672raTQoEA4/s16000/Group%201000003038.png"
+    },
+    {
+      "id": 57,
+      "item_name": "Kulthi",
+      "item_name_guj": "કળથી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEQH03SlUA9HK9MCA3eqUgFkrqKMr0zHoKtaXukkwk0EVh2KfVRemlNl-Tbyem2Nu4JczKvy1LfKJ95sw3lNG5b9o3HZnlxbTqMWXx7DRDQViiLSvKKPJ1v3CiBq8v9F9KRt1AFOcwye59IUrE0PZcqUMkZyHxf05jnuXJolVRAzKuI2JTETdcPg8k4wg/s16000/Group%201000003039.png"
+    },
+    {
+      "id": 58,
+      "item_name": "Capsicum",
+      "item_name_guj": "કેપ્સીકમ (સિમલા મરચાં)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzl_A2RtUyf5hO6YdUi2mJbxZbmd8tf3hmWdhG1WN0QeQsfwLErtsHa5CrzWIG5TvOjFpbPw0bG7pOlZ7TKAFRDfyvMtR6xOx9EUh2zLnTG2lCuAiNLaVKVgwNdqu0wospAfWyg6VntZ9l3HYUXq_CYdQ626pVTqeHtyVAhtxYJlUvpXlswFMmXBUGzkQ/s16000/Group%201000003040.png"
+    },
+    {
+      "id": 59,
+      "item_name": "Sweet Potato",
+      "item_name_guj": "શક્કરીયા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh32FQpOfFgN6oJa0CEc4JKxUtgq-KUyQk72iGcPhN-43nngBkkGrFhc7eZkxreFwCIr3ElUGtTiASGMUB6lnxDyrSavFlNt2ukTEaFCSxTySwMv_vpF6fzeCnYZq-YcqJWBKtRDesWNYpFFzO37koBG-39Z_F4OaosCejpumY5KqWH7iPcxJ-XGhxrhQA/s16000/Group%201000003041.png"
+    },
+    {
+      "id": 60,
+      "item_name": "Onion Green",
+      "item_name_guj": "લીલી ડુંગળી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNzyH-3_KpDpPw_OCBvW95WQHen_W9HSBa1d8BcZ7G4xVffftGAfMue9rdjD3Bt7kQFREIdpqqYNs4vqIltieoWGhwY84oVIRG5dsgveHl3Sc9bfCgeRl7h9FEyfLBpRitBkiMOWYCf19KREmt2b_Tziube2wMNhEr2Nzry2gWdlBpfGJ-sYCwZOuO2kE/s16000/Group%201000003042.png"
+    },
+    {
+      "id": 61,
+      "item_name": "Tinda",
+      "item_name_guj": "ટીંડા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGD6QoED-iu76h5yLIl5sldT4oRDnsR67pp0_3udUUbPtDhUjUlnLhIygmr0O5gmoZknrW0BI-ifnoqNKZSAZ-U1e4Oe39NZd_7wzzgwz03WU6amznqpbbhioUaEEX9i_jlfTQgGfvsvw4SWnH1iUu5tjNZiX6uOAbbOcVHtUfE0brVzPxrGrGGp5W-sE/s16000/Group%201000003043.png"
+    },
+    {
+      "id": 62,
+      "item_name": "Ajwan",
+      "item_name_guj": "અજમા (અજવાન)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCWxTFs5W0UfsNoRxacQEiPphZWipw86SCHhDUikNTVQ52mG4b9zzlBYXBN3K4MRi0OMD35wl2Uz82wfcc8ORxTIrggihPRSNfZFxmybpNMMoe0h-rHnsPB4H2E75OtWz8eeHeZPjj6YQDwxLYF4_4_ArUDYAriVY2KUjUNVBt2dP-rs_drBG-4wKhweQ/s16000/Group%201000003044.png"
+    },
+    {
+      "id": 63,
+      "item_name": "Peas Cod",
+      "item_name_guj": "વટાણા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFoTbcec5m_UvmY_YA_snB7uJr9shBJKDCnKctWqHqv2Cjk9Ua7qnfnYbu5PCV155UXJxWHj7Unnh3Boxnc00Urol_zCGrjmb8dYXmhN90ehHYZWFl_emVxTzgoI59uuSrJmcpSQDa-t-sVFYbOJQ3nro1idW8iZwVihcmEx8E_DV_Qx5BoFDfGdGcgZU/s16000/Group%201000003045.png"
+    },
+    {
+      "id": 64,
+      "item_name": "White Peas",
+      "item_name_guj": "સફેદ વટાણા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU42Vtj7I-mtiL15ddsQTL2DwIrX983QmJsyE3nzX4ZyML5Xim5JJAe9EdVmnw1bG7uDb6uKh_999ejXoWg9lHZkwY3dFXEekI_2KyAKOvQfuX9kg73SSyD3Z1hiPNntFq8mXe6w5U1TMvVhDWKz0fdJQ0850L3Ou26EGEFBs5gQ5dTU7RjKJ2Aynkdfk/s16000/Group%201000003046.png"
+    },
+    {
+      "id": 65,
+      "item_name": "Chikoos",
+      "item_name_guj": "ચીકુ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDoaS62Y9SzE5Tu1z9w6vRM3mvFI9oxZM3b7CNDR0NHNMWXfKPVnS29VdmbqjlnUIb9WhLb60ZPk-nRJS99FYnjmf9lGSD4eaHnBhmT9tqcDy29eqp4IdphMNXNKD88Mqua1cZTd_pb6FN2J23ElnpqtF4SK2XIJfvNCzXoJbAGFwzcGWWgQy7UldPvXs/s16000/Group%201000003047.png"
+    },
+    {
+      "id": 66,
+      "item_name": "Kartali",
+      "item_name_guj": "કરતાલી (કંટોલા)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEXDJDya8yt5S-YxXdGMonw_VigYS1o_HWvSPQE5MDRm8890lVNVN6XxfCY9umX4lTc7mez_o1uwGyoLzJAKTBhmSLP1PUr7CXqysVbGNBYmG03OfTgsgRT24AHmVQvnEQqxCpsIZs5b8-Fe6IiCWdmFnvKzioebHNtxrEeM34QiMwFddtiOrcoPyvFM/s16000/Group%201000003048.png"
+    },
+    {
+      "id": 67,
+      "item_name": "Banana - Green",
+      "item_name_guj": "લીલા કેળા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlbPk33Hh9KwGVEAqiQE39kjLu9nCJQKfgSU5tKQLP8-VHXR4ZeifRZiwDTJu7kllPrl7DdgyFD1lyvKmsSOXY_-TR6C4KCRZ25rdi6xD1zNdUt0HusFKB3es2jCubM1ouSne-SGXPw4iVymazFTwlDHzOn-YcsrvPEc2hsGKOnISEf9cdizIcLwkGcQ/s16000/Group%201000003049.png"
+    },
+    {
+      "id": 68,
+      "item_name": "Gram Raw",
+      "item_name_guj": "ચણા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAovX08_e39rFOM48w9KgjO7cZJk1R_fxKJVmYpSYZnBu4T_EIzKUfsfKQpGXIgVGasjFhdbHhUEo4qWmaII3ncRCl4G7uCziNanIeTN7qA4gzlyuhLizljRiNqGTAQ3mZ8ATyItpLLrwY4UJa6WKnqwqaAM2xSDFbTI21PZ2Oy3hmOIWH6f2Lahk5n0/s16000/Group%201000003050.png"
+    },
+    {
+      "id": 69,
+      "item_name": "Mousambi",
+      "item_name_guj": "મોસંબી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNlvjmcBXIIlN_G9pnIgoqJfu9bHoOb4MVdMZDlyZvhJ-46jGtbL4-xgdLtUaI5Mf-Tj59ecFBCRCoKKlrno3FsD_k4wRTjGFIFi0iCb-LJyLia5ZP2kwsjExLabOmHgsEbHV_wYxS8AhQyskyyPyOrHfKgRM9v5uMihh0CqT4n5fbri-bVq6fPzM_EYI/s16000/Group%201000003051.png"
+    },
+    {
+      "id": 70,
+      "item_name": "Pomegranate",
+      "item_name_guj": "દાડમ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiajGsfLbCzfE728uEhXUYi4KEDr0I-8LAxXO9aMxau44PzXrgCyIh4p-E5fO8Oh8lOs9W3zrypu5lqwe3gVEDS7rYNcv3JIOFmIe-e0kQ7bVthQXPn2eCBn5yhwdBACJEXUGVodnSFO3q6_QdBYWmyskK1p-sBpSCsVSKjSrExFZznx1FxYbFKVDLYuVA/s16000/Group%201000003052.png"
+    },
+    {
+      "id": 71,
+      "item_name": "French Beans",
+      "item_name_guj": "ફણસી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNCdzCFGSgULE0P9FrFxgA4G5FZqaxXikJzINSXyd3FyLuZhncPT-hy4Ew5a9HoaMVbNP-wihbnD5im0NHkXv1xnTQ4U-DknL-KmxH0zuxD_og9XGE2zy0QybGMAjjJx5m9E8S3I87PpQY07GdUjHU6K22qx_u4TS29jxI3TiuvL9rMMokBKJnxB3slrM/s16000/Group%201000003053.png"
+    },
+    {
+      "id": 72,
+      "item_name": "Indian Beans",
+      "item_name_guj": "સીમ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqCBpcw-di6qSQt9n5eusvboPjNL2_oxQ0PSDblHVhLRK-_uBfc2EjZoXR8wcCrBFxS0tHru6sLX6DBWoHXyeoATFUPu7od5MaeUYgmHhZcYkOCVgOJbw-5uKy1w9Vhj-c7bAfw6XPLa3LMVRS3WSr4OX4TvnTvFaSeWgwp01cU9_76O_w_XkspI7x3k/s16000/Group%201000003054.png"
+    },
+    {
+      "id": 73,
+      "item_name": "Groundnut Pods",
+      "item_name_guj": "મગફળી (લીલી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWTHyzq878RYEqZJdplEsYq9W6jNqhwKyngMbfyqNXCjLyMkpfyjsQEk6pK6Po8yIyHByT9FC1SCZDtLwQevnF8WmvNVxk4hTMyibWz4EL8Uht-K8_swCnghAJaBm9IKqFT6jRzR2UyMIxnyVWZUMeJg3-UR4t1cqadfosJVEAacQX0RfXyNMhDCJ1l6o/s16000/Group%201000003055.png"
+    },
+    {
+      "id": 74,
+      "item_name": "Pegeon Pea",
+      "item_name_guj": "લીલી તુવેર",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixd5trZ6wP2govCLfkrjHmt5vIuPYbXZdJ05lIMdcZf53Bm2kfI77DVYW78SjZ73cjjAcAXiOwj4E1ZHco6JvN3DJrtm_Z48co47UC7QFAfl_T1cdJNpE0HZEVjiu2TE79xv6SfEAk15eCUcCqCfKfHZqt5vG_G5Dnsa3ZSfnsfeDyL6f1_47QIaqnhvw/s16000/Group%201000003056.png"
+    },
+    {
+      "id": 75,
+      "item_name": "Snake Gourd",
+      "item_name_guj": "પંડોળું",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMid3_j5kGG6FksnQcniyuO4viA4ml8yu3gr2XDlQXBslMjii1G7KCoLhVSZhCZ9JaSq0TBCcAz6o_4nQ51jdccQyeDmpQdA3MhGbnhfuFFBTSHKTheSU9sTCjNmpae2pcBJtZTjsMM8J8GL_AlCL_GlXnrVL2UOf50X1OnjFnK-CTv5Dfs0WHhrK8yWc/s16000/Group%201000003057.png"
+    },
+    {
+      "id": 76,
+      "item_name": "Surat Beans",
+      "item_name_guj": "સુરત કઠોળ (પાપડી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5-MKBhC-e0SmDl-KXOu5pwz7n2CkZrko-iO44iCd1WEeVoMSM1yrcBN0bnCKkNAb9hnIK-g9DiO4sTN_1DtpjiSwSr284GRHm9OSyd1W9zW6VeIyywJs63JhJGBbaVt1irlEH2IFgs4AyZaJy9lJF3r2_Dg3k3_Uzt5KxJ-5Uks5NrgA8DoCsqEOUCA/s16000/Group%201000003058.png"
+    },
+    {
+      "id": 77,
+      "item_name": "Mint",
+      "item_name_guj": "ફુદીના",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh82ILMRRwkct2Cv6nwjP8ZIrVThFfVfHEE6fqcAvuTkfNJrTi5dQQhWj6cpFMy0_mnR7j1PV7-Jh86-d6fVQe3eOp7qcjW9o-tfJCNDpKIoNvJmN2-sbQMqC0vc4vzl57N3bG1I_sjgIpAfAfIul9w5rWa-D-urIJ92zvzgNld9ltA0xJTUpOpoe0pHsg/s16000/Group%201000003059.png"
+    },
+    {
+      "id": 78,
+      "item_name": "Apple",
+      "item_name_guj": "સફરજન",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjULqk3fsA5kUGbumijQY-ugT7qRL_xRsJZehxFcO2QpBp15EIgaIoVVob-YBASy6nYLv1Z0TehDWzvqgVgTd-8bdvZkAKvRAKD9Y1zqmQCNCpHU42XahuHBbbKckZybaF81c58iRbSdtRdIveVxiS8ykIk7Fqu_wZOt9gZt6Mo18WFt30HJT7HnJSSuwE/s16000/Group%201000003060.png"
+    },
+    {
+      "id": 79,
+      "item_name": "Turmeric",
+      "item_name_guj": "હળદર (કાચી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnmwvp6wfqqQi_PxsQjdHBuK4kvHRHDPIe5hW-hStp4Va9cbz6gV2Ney_071yPZzbGt15yQtfTLEBinsl8l5_pBpJ8tE2wOAHPb4pk5EVFLAILXdVU-4hYpiVSw2b-gc8B7ZMXqp661AADVZUf2YlWhjGaDMqegKW5VAaQLHwzqnp3wqOslAUOcH6SJ54/s16000/Group%201000003061.png"
+    },
+    {
+      "id": 80,
+      "item_name": "Yam",
+      "item_name_guj": "યમ (રાતાલુ)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB4FkRSmQSH6GzAprEP3jfkUFF3pfNy9yHReY1XcpUtecHRDicq2rJltGT70MItB3eL-lETKmjrGCpWYg77nvT1pkPgMfz4vFq1WqdPDTSLtd5NoVAENPdYi7AyTuceAH_hvfAQfKsdzppCjjqdx8RGam_tqI0uLcgjhfuvGBQ3GfMMegHNP7eXLzs3E8/s16000/Group%201000003062.png"
+    },
+    {
+      "id": 81,
+      "item_name": "Amaranthus",
+      "item_name_guj": "રાજગરો (રાજગરા)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_0L6x8MD_8A62kD_mc3M0UrI3cRDDofGOjsIg-_IRefUcNnwenX7c058rVCZFMu53BD1CsmiiQ37pNEgAQ7PBylXzZr-ZUqZqcTdphyphenhyphengbQ2Wsy91WM949wAlttzdSw9mio9JgF5kbPfZNI-jWdoUsjwpkLsFtFdnBRLBhe1Hd7fv0RZgFeLvt0OU3z98/s16000/Group%201000003064.png"
+    },
+    {
+      "id": 82,
+      "item_name": "Water Melon",
+      "item_name_guj": "તરબૂચ",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgqld8yQCNxRgtN8mzXoE_RtbfOJZcZdxMzdFqYdyJ0aldgD83G7uzRSueTYUlKJCgCSIz933T68fnBOa5Q2mzWbVVcehVM04BozQa0XqhZWHoxmNcxScXeLWQLjrqInywU7Zyx7jttHaUJc1Vwc3qY642DQXQKZ86CVi3adK67EivnwFRUna0M8pp4Kc/s16000/Group%201000003065.png"
+    },
+    {
+      "id": 83,
+      "item_name": "Paddy",
+      "item_name_guj": "ડાંગર (ધન) (બાસમતી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwSIkHq-MwWjIOXKYSqN_5Sv44NF1-Sq07He5lBP7b2NulA-nWY1W_7VOI_SRoqQV393PB_qQF_oClakLTe3SvIJ7OlEPIppK2KUFTKBxGJcISMCE1CBRv-uRd7-1wJPar6XE6Fk2KFE_Wjw4X1d5ltvYwPJGSPPK1DSQ3a8VQetKkRbgi7Y15n14SbQ/s16000/Group%201000003066.png"
+    },
+    {
+      "id": 84,
+      "item_name": "Methi",
+      "item_name_guj": "મેથી (પાંદડા)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNzCDPxxFiuUaVCkvS_nek07ibCgIQX2JBI9JFvejDDd74IExW-oShzZtRHSPBk0iBUy1MNyNBapAWG7cuVNraJM9FX1NfGmNxDwSTs24NSTn5n38bAy4lHB8HHHuSw7YsmFPzLC97S2sEAW9Zh9S-c9KKKeGwka7wndchXeOwEp24UaOyQrzeEjZd4w/s16000/Group%201000003067.png"
+    },
+    {
+      "id": 85,
+      "item_name": "Beans",
+      "item_name_guj": "રાજમા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHo4NI4WDKYR5WtX8AXuAaOaWzhkfio04tptWCdrSA_3whpUQSq8NLwOrljj2P7kCdxwaVHWNTGSeHlSPLaJ4SP1U6w80jhcp0F5_oLfKOQuBsRF9L2zVhx49suqO20y6VW40Gdr-t7LEA9XRhDcNERmRjJ-_qUH5BiYKClHTlhWXl14b7SjiE2q2EXNc/s16000/Group%201000003068.png"
+    },
+    {
+      "id": 86,
+      "item_name": "Radish",
+      "item_name_guj": "મૂળા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3eacRAYG5RBvWgovcvpJ9pk3RMuVnJ470lUFzF1hW50hyphenhyphenxSrLCu6PMo2_MjAHOOLdxNBf8JVRHN9ia7SlEG5BYMmLAgbspJHl5lSwJO_lwiF2a-WIPtj9xrSIzvJyeW2RtyWXpCmsk3bO7ogJ5pLk2wUAW-AEiBqnY_VIfqe6JOfmFX9naYHHwzLBoY/s16000/Group%201000003074.png"
+    },
+    {
+      "id": 87,
+      "item_name": "Cowpea",
+      "item_name_guj": "ચોળી",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYI5fF2Q9miNaLF998Ixif1RJrL6DP0NUTGmBGp7yLVeuaKl2dBZntEzkDPplcdreGisCaF4bBOaC-3EOTsmqSkdJbQPY5f4XtHJ04Jmwm66ELEGvaP1wZdN2FCCMNuPOpIMvdHz_yxK2mAFTUSCypbq1KON-1D-FNtCtEkdgw4K1_oPV0FcDsBfV5t5o/s16000/Group%201000003070.png"
+    },
+    {
+      "id": 88,
+      "item_name": "Barley",
+      "item_name_guj": "જવ (જૌ)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDypYLwoDNOF6hm2ychFbJgDJgYA-zA6qF0Kqx5WsESNgrjI8h1WmZPHk7rcAoCJH2UoC_i107vTk2l9SWbnEw1WtACvoVUk2lJvl0yOAS0bVCliHz2fS-y5ZVzHs2JVQDxh5IBmZkCyrT9heGqjszFsbEUSyEkWMLWd7x_uXqfMqVNTKD1GwB0OcNyM/s16000/Group%201000003071.png"
+    },
+    {
+      "id": 89,
+      "item_name": "Mango",
+      "item_name_guj": "કેરી (કાચી-પાકેલી)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKKLBDNBo6CJpz1XREj9xWk_8yi8cKcgCdp2uQ6ElndGRJkxw1tw7Z1nhiimqt8S9SSB6O1IVi0f20g1ozHEHR8q79jMJwdC4j6_B1cEmDtrLB5ftKxchz6HwOaRV0vhYpyduVv5iEOghBEk3rfeySpiPSX928l6OqYUSFMxZXtD-tdeG3_9tYCkumeI/s16000/Group%201000003072.png"
+    },
+    {
+      "id": 90,
+      "item_name": "Papaya",
+      "item_name_guj": "પપૈયું (કાચું)",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGTXpk7EAfE0JIp1NyDPeNOwuV79FhRHh_sE5_EW9E5gyuRf4_ImXy591oIwly75Z3hU3XoqMmONuUX9TB_H-D4y-Pe6spVWs-rgMgYf4DDYNBZiYqxCV40T1UpeZhllpI3ojTc4kwNVuX1v5us-yKWt-xhuBjfImemi9lJ8ggqogJqA_gvSA_k5p7Skk/s16000/Group%201000003063.png"
+    },
+    {
+      "id": 91,
+      "item_name": "Colacasia",
+      "item_name_guj": "પાતરા",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD0rGtzOtR3uNmi_E0ZsKNNA7I0AesJPD1R1RdhEaNxA6YQiEfxeTT-BdA_SMIgyGkrwadERJj_Dygyr3Sodzy-LPGswJ3U0tDWhtWPHxEG1zLzqICUX4s4rh-KNfDjrFjl6wO1dzPinZUQYDeJn3fjBT57FkNjrJlfs5BJ_0E1QLdz6ioqqyRSKKadHc/s16000/Group%201000003073.png"
+    }
+  ]
+}
